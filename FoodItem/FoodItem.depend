@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1386643035 source:c:\users\lee\desktop\c++\c++ projects\fooditem\fooditem.cpp
+	<iostream>
+	"FoodItem.h"
+
+1386643085 c:\users\lee\desktop\c++\c++ projects\fooditem\fooditem.h
+	<iostream>
+
+1386644626 source:c:\users\lee\desktop\c++\c++ projects\fooditem\pancakesdriver.cpp
+	<iostream>
+	"Pancakes.cpp"
+
+1386646032 c:\users\lee\desktop\c++\c++ projects\fooditem\pancakes.cpp
+	<iostream>
+	"Pancakes.h"
+
+1386645448 c:\users\lee\desktop\c++\c++ projects\fooditem\pancakes.h
+	"FoodItem.h"
+
+1386643035 c:\users\lee\desktop\c++\c++ projects\fooditem\fooditem.cpp
+	<iostream>
+	"FoodItem.h"
+
+1386646378 source:c:\users\lee\desktop\c++\c++ projects\fooditem\pancakes.cpp
+	<iostream>
+	"Pancakes.h"
+

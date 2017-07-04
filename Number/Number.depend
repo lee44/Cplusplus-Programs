@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1383420671 source:c:\users\lee\desktop\c++\c++ projects\number\main.cpp
+	<iostream>
+	<cstdlib>
+	"Number.h"
+
+1383420931 c:\users\lee\desktop\c++\c++ projects\number\number.h
+	<iostream>
+	<cstdlib>
+
+1383420671 source:c:\users\lee\desktop\c++\c++ projects\number\operatordriver.cpp
+	<iostream>
+	<cstdlib>
+	"Number.h"
+

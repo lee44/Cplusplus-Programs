@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1383580427 source:c:\users\lee\desktop\c++\c++ projects\swimmingpool\main.cpp
+	"SwimmingPool.h"
+	<iostream>
+
+1383580742 c:\users\lee\desktop\c++\c++ projects\swimmingpool\swimmingpool.h
+	<iostream>
+	<cstdlib>
+
+1383580560 source:c:\users\lee\desktop\c++\c++ projects\swimmingpool\swimmingpooldriver.cpp
+	<iostream>
+	"SwimmingPool.h"
+
+1383580427 source:c:\users\lee\desktop\c++\c++ projects\swimmingpool_not_exception\swimmingpool\main.cpp
+	"SwimmingPool.h"
+	<iostream>
+
+1383580742 c:\users\lee\desktop\c++\c++ projects\swimmingpool_not_exception\swimmingpool\swimmingpool.h
+	<iostream>
+	<cstdlib>
+
+1383580560 source:c:\users\lee\desktop\c++\c++ projects\swimmingpool_not_exception\swimmingpool\swimmingpooldriver.cpp
+	<iostream>
+	"SwimmingPool.h"
+

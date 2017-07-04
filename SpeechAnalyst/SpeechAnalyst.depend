@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1384119170 source:c:\users\lee\desktop\c++\c++ projects\speechanalyst\main.cpp
+	<iostream>
+	<string.h>
+

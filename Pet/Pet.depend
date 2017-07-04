@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1386996342 source:c:\users\lee\desktop\c++\c++ projects\pet\cat.cpp
+	"Cat.h"
+	<iostream>
+	<string>
+
+1386994599 c:\users\lee\desktop\c++\c++ projects\pet\pet.h
+	<string>
+
+1386957295 source:c:\users\lee\desktop\c++\c++ projects\pet\dog.cpp
+
+1386985891 source:c:\users\lee\desktop\c++\c++ projects\pet\driver.cpp
+	"Cat.cpp"
+
+1386994936 source:c:\users\lee\desktop\c++\c++ projects\pet\pet.cpp
+	"Pet.h"
+
+1386996105 c:\users\lee\desktop\c++\c++ projects\pet\cat.cpp
+	"Cat.h"
+	<iostream>
+	<string>
+
+1386996152 c:\users\lee\desktop\c++\c++ projects\pet\cat.h
+	<string>
+	"Pet.h"
+
